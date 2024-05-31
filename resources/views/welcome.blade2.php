@@ -53,7 +53,7 @@
 
                         <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
                             <li><a href="#home-section" class="nav-link">Home</a></li>
-                            <li><a href="#agents-ssection" class="nav-link">Services</a></li>
+                            <li><a href="#agents-section" class="nav-link">Android App</a></li>
                             <li><a href="#about-section" class="nav-link">About</a></li>
                             <li><a href="{{route('login')}}" class="nav-link">Login</a></li>
                         </ul>
@@ -77,7 +77,7 @@
             <div class="row align-items-center justify-content-center">
                 <div class="col-md-6 mt-lg-5 text-center">
                     <h1>We suggest best suitable hotels for you</h1>
-                    
+                    <p class="mb-5">Download and use our android app for best experience</p>
 
                 </div>
             </div>
@@ -126,8 +126,8 @@
         <div class="container">
             <div class="row mb-5">
                 <div class="col-md-7 text-left">
-                    <h2 class="section-title mb-3">Services</h2>
-                    <p class="lead">Sevcices will be listed here soon </p>
+                    <h2 class="section-title mb-3">Android App</h2>
+                    <p class="lead"><a href="">Click here to download the android app</a>.</p>
                 </div>
             </div>
         </div>
@@ -158,7 +158,7 @@
                     <p>Best of all places on Jimma</p>
 
                     <ul class="list-unstyled ul-check success">
-                        <li>Reliable services</li>
+                        <li>Use our android app</li>
                         <li>We will update every service on all the hotel</li>
                     </ul>
 
