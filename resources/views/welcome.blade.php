@@ -53,7 +53,7 @@
 
                         <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
                             <li><a href="#home-section" class="nav-link">Home</a></li>
-                            <li><a href="#agents-ssection" class="nav-link">Services</a></li>
+                            <li><a href="#agents-section" class="nav-link">Services</a></li>
                             <li><a href="#about-section" class="nav-link">About</a></li>
                             <li><a href="{{route('login')}}" class="nav-link">Login</a></li>
                         </ul>
@@ -127,7 +127,7 @@
             <div class="row mb-5">
                 <div class="col-md-7 text-left">
                     <h2 class="section-title mb-3">Services</h2>
-                    <p class="lead">Sevcices will be listed here soon </p>
+                    <p class="lead">Services will be listed here soon </p>
                 </div>
             </div>
         </div>
