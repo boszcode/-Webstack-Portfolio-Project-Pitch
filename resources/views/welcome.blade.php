@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Best Hotels ever</title>
+    <title>HRS:Best Suited Hotel For You</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -53,7 +53,7 @@
 
                         <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
                             <li><a href="#home-section" class="nav-link">Home</a></li>
-                            <li><a href="#agents-section" class="nav-link">Services</a></li>
+                            <li><a href="#services-section" class="nav-link">Services</a></li>
                             <li><a href="#about-section" class="nav-link">About</a></li>
                             <li><a href="{{route('login')}}" class="nav-link">Login</a></li>
                         </ul>
@@ -122,12 +122,12 @@
         </div>
     </div>
 
-    <section class="site-section border-bottom" id="agents-section">
+    <section class="site-section border-bottom" id="services-section">
         <div class="container">
             <div class="row mb-5">
                 <div class="col-md-7 text-left">
                     <h2 class="section-title mb-3">Services</h2>
-                    <p class="lead">Services will be listed here soon </p>
+                    <p class="lead">Sevcices will be listed here soon </p>
                 </div>
             </div>
         </div>
